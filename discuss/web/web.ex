@@ -1,4 +1,4 @@
-defmodule Discuss.Web do
+    defmodule Discuss.Web do
   @moduledoc """
   The entrypoint for defining your web interface, such
   as controllers, views, channels and so on.
